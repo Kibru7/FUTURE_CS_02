@@ -1,11 +1,6 @@
-README
-
 Project Title
 Phishing Detection and Awareness Report
-
-Prepared by
-Kibru7
-
+ 
 Purpose
 This project documents real phishing investigations and produces an awareness report that helps employees recognize phishing, verify suspicious messages safely, and report incidents. It focuses on defensive security analysis and education.
 
@@ -53,8 +48,7 @@ Repository Contents
 Phishing_Detection_Awareness_Report.txt
 The main written report containing analyzed phishing cases, indicators, risk classification, and prevention guidelines.
 
-README.txt
-This document describing tools used and the analysis approach.
+ 
 
 Disclaimer
 All content is for defensive security awareness and educational use only.
