@@ -45,7 +45,7 @@ Step 7 Create prevention and awareness guidelines
 Add employee prevention tips, clear do and dont guidance, and a reporting process for suspected phishing.
 
 Repository Contents
-Phishing_Detection_Awareness_Report.txt
+Phishing_Detection_Awareness_Report
 The main written report containing analyzed phishing cases, indicators, risk classification, and prevention guidelines.
 
  
